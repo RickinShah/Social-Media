@@ -4,3 +4,6 @@
 - Java Servlet
 - JSTL
 - AJAX
+- HTML
+- CSS
+- JavaScript
